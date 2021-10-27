@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Hello em Quyên",
-    introTitle: 'kekeke',
+    titleWeb: "HQuyênngokngheck123",
+    introTitle: 'Quyên ơi nhìn nè',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
