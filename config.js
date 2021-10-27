@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "HQuyênngokngheck123",
+    titleWeb: "Quyênngokngheck123",
     introTitle: 'Quyên ơi nhìn nè',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/ngochaucute123/deptrai10d' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://github.com/ngochaucutee123/deptrai10d' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
