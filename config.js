@@ -12,6 +12,6 @@ const CONFIG = {
     reply: ' em dễ thương 10đ',
     mess: 'Em biết mà 🥰.Cảm ơn chị nhiều nhiều 😘😘',
     messDesc: 'Tối nay 10h, mình leo rank nha.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiiii lun <3',
     messLink: 'https://github.com/ngochaucutee123/deptrai10d' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
